@@ -1,0 +1,5 @@
+##
+echo 'Compiling .....'
+af95 -Ofast -o beam constant.f90 params.f90 service.f90 solver.f90 nonlin.f90 reader.f90 writer.f90 initbeam.f90 plasma.f90 1beam.f90
+echo 'Removing object files ....'
+rm *.mod

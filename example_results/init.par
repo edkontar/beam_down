@@ -1,0 +1,10 @@
+0         ! 0-sreen output; 1- output to the logfile
+1.0       !Tmax in seconds - Time of calculations
+1E+9      !Nb in cm^{-3} -  Electron beam density
+0.1       !*10^9cm - the spatial size of the electron cloud
+20.0      !*10^9cm/sec - the velocity of electron beam
+4.0       !*10^9cm - altitude of the electron beam source
+-0.8      !*10^9cm = Xmin - lower border of the calculation box 
+3.96      !*10^9cm = Xmax - upper border of the calculation box
+0.005     !sec - time of data save
+1e-7      !sec - Delta t
