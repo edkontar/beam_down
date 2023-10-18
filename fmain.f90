@@ -41,6 +41,7 @@ PROGRAM QBEAM_PLASMA
 ! MODIFICATION HISTORY:
 !  1999-2002: Version 1 written by eduardk(at)astro.uio.no 
 !  02/2002:  eduard(at)astro.gla.ac.uk: module structure added
+!  uploded to github October 2023
 
 
   USE CONSTANT
