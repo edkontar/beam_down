@@ -7,14 +7,16 @@ Includes self-consistently Coulumb collisions, Langmuir wave generation/absorpti
 #### If not already installed on your system, download and install git for command line from https://git-scm.com/
 #### Launch the Git Bash terminal
 ```bash
-git clone https://github.com/edkontar/wkt wkt
-cd wkt
+git clone https://github.com/edkontar/beam_down beam_down
+cd beam_down
 git submodule update --init --recursive --remote
 ```
+
 #### To compile with f95 or Intel Fortran compiler and build a binary file 
 ```bash
 make
 ```
+
 #### To plot results and/or make animations using IDL use fw.pro 
 ```bash
 IDL> fw
