@@ -1,5 +1,6 @@
 # beam_down
-Solar flare electron beam propagation downwards
+#### Solar flare electron beam propagation from loop-top region downwards into the chromosphere. For details see 
+http://dx.doi.org/10.1088/0004-637X/707/1/L45
 
 The code to simulatione downward electron transport in collisional plasma of solar corona;
 Includes self-consistently Coulumb collisions, Langmuir wave generation/absorption, and non-uniform plasma effects
