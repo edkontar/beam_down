@@ -17,6 +17,11 @@ git submodule update --init --recursive --remote
 make
 ```
 
+#### To run the code
+```bash
+./beam
+```
+
 #### To plot results and/or make animations using IDL use fw.pro 
 ```bash
 IDL> fw
